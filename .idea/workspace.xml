@@ -4,7 +4,6 @@
     <list default="true" id="e4b9d454-0164-42d6-9ed4-2769a703b685" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infra/php/php.ini" beforeDir="false" afterPath="$PROJECT_DIR$/infra/php/php.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <workItem from="1607834613323" duration="821000" />
       <workItem from="1607835749614" duration="520000" />
       <workItem from="1607836284863" duration="2837000" />
-      <workItem from="1607839216632" duration="3115000" />
+      <workItem from="1607839216632" duration="3496000" />
     </task>
     <servers />
   </component>
@@ -122,16 +121,5 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="-79" y="170" width="911" height="722" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1607838822195" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/backend/public/phpinfo.php</url>
-          <line>2</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
